@@ -14,4 +14,4 @@ j=5
 
 while j>=1:
     print(j)
-    j-=1
+    j-=1 
