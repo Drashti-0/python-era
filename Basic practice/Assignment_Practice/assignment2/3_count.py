@@ -2,12 +2,11 @@ n=int(input("Enter number n"))
 
 
 def function(n):
-    
-  
-while(n!=0):    
-    reminder=n%10
-    print(n)
-      n=n//10
+        
+    while(n!=0):
+        reminder=n%10
+        print(reminder)
+        n=n//10
       
       
       
