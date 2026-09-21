@@ -20,7 +20,7 @@ def calculator(a,b,operation):
             print("Multiplication: ",c)
         
      
-    elif(opration=="Divide"):
+    elif(opration==Divide):
              c=a/b
              print("Divide: ",c)
          
