@@ -6,6 +6,7 @@ def fun(n):
     while(n!=0):
           reminder=n%10
           sum=sum+reminder
+          n=n//10
     print(sum)
         
 fun(n)
