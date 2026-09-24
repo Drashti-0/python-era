@@ -1,0 +1,1 @@
+numbers.count(10)
