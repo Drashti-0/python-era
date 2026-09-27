@@ -3,6 +3,7 @@ student={
     "age":19,
     "branch":"CSE",
     "semester":3,
+    
     "cgpa":7.98
    
 }

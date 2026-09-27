@@ -2,6 +2,7 @@ a=input("Enter your string: ")
 
 words=a.split()
 
+
 frequency={}
 
 for word in words:
