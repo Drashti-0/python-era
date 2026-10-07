@@ -7,5 +7,6 @@ ans =6
 for ch in word:
     if ch=='i':
         ans+=1;
-        
+
+
 print("i in this: ",ans)    
