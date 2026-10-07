@@ -12,6 +12,8 @@ int bintodecimal(int binnarynum){
         pow=pow*2;
     }
 
+      
+
 return ans;
 
 }
